@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[26,)"
+license="All rights reserved"
+
+[[mods]]
+modId="cityvillages"
+version="${file.jarVersion}"
+displayName="City Villages"
+authors="Codex"
+description='''
+Makes villages bigger and richer, increases villagers/cats/iron golems,
+boosts passive animal spawns, and increases loot drops from mobs.
+'''
